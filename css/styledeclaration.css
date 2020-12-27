@@ -36,13 +36,13 @@ ul {
             color: #fff;
         }
 
-        ul li.highlight a {
-            background-color: #000;
+        ul li.highlightfull a {
+            background-color: #d4b99f;
             color: #fff;
         }
 
             ul li.highlight a:hover {
-                background-color: #d4b99f;
+                background-color: #000;
             }
 
 
